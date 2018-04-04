@@ -1,5 +1,2 @@
-var hello = "Hello";
-console.log(hello);
-
-var world = "World !";
-console.log(hello + world);
+var helloworld = "Hello world !";
+console.log(helloworld);
